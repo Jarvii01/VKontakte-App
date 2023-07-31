@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VkApp</string>
+    <string name="navigation_item_main">Главная</string>
+    <string name="navigation_item_favourite">Избранное</string>
+    <string name="navigation_item_profile">Профиль</string>
+    <string name="button_login">Войти</string>
+    <string name="comments_title">Комментарии</string>
+    <string name="template_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="comments">Комментарии</string>
+    <integer name="com_vk_sdk_AppId">51640864</integer>
+</resources>
